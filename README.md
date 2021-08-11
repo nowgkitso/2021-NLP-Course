@@ -10,7 +10,6 @@
    * 禁止詞表：[CS.txt](https://github.com/nowgkitso/2021-NLP-Course/blob/main/CS.txt)                 
    * HW：[HW01](https://github.com/nowgkitso/2021-NLP-Course/blob/main/NLP_HW01.ipynb) 
 
- * #### 07/22 
-   * 待更新        
-   * Course link：[Week 1-2]()      
-   * HW：[]()
+ ### Week 4
+ * #### 08/12       
+   * HW：[HW02](https://github.com/nowgkitso/2021-NLP-Course/blob/main/NLP_HW02.py)
