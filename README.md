@@ -12,4 +12,6 @@
 
  ### Week 4
  * #### 08/12       
+   * Data：[movie.csv](https://github.com/nowgkitso/2021-NLP-Course/blob/main/HW03/movie.csv)
    * HW：[HW02](https://github.com/nowgkitso/2021-NLP-Course/blob/main/HW02/NLP_HW02.ipynb)
+   * HW：[HW03](https://github.com/nowgkitso/2021-NLP-Course/blob/main/HW03/HW03.ipynb)
