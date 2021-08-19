@@ -15,3 +15,7 @@
    * Data：[movie.csv](https://github.com/nowgkitso/2021-NLP-Course/blob/main/HW03/movie.csv)
    * HW：[HW02](https://github.com/nowgkitso/2021-NLP-Course/blob/main/HW02/NLP_HW02.ipynb)
    * HW：[HW03](https://github.com/nowgkitso/2021-NLP-Course/blob/main/HW03/HW03.ipynb)
+ ### Week 5
+ * #### 08/19       
+   * 禁止詞表：[CS.txt](https://github.com/nowgkitso/2021-NLP-Course/blob/main/CS.txt)
+   * HW：[HW04](https://github.com/nowgkitso/2021-NLP-Course/tree/main/HW04)
