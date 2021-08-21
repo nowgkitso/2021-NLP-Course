@@ -19,4 +19,4 @@
  * #### 08/19       
    * 禁止詞表：[CS.txt](https://github.com/nowgkitso/2021-NLP-Course/blob/main/CS.txt)
    * HW：[HW04](https://github.com/nowgkitso/2021-NLP-Course/tree/main/HW04)
-   * HW：[HW0](https://github.com/nowgkitso/2021-NLP-Course/blob/main/HW05/HW05.ipynb)
+   * HW：[HW05](https://github.com/nowgkitso/2021-NLP-Course/blob/main/HW05/HW05.ipynb)
