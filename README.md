@@ -21,5 +21,6 @@
    * HW：[HW04](https://github.com/nowgkitso/2021-NLP-Course/tree/main/HW04)
    * HW：[HW05](https://github.com/nowgkitso/2021-NLP-Course/blob/main/HW05/HW05.ipynb)
  ### Week 6
- * #### 08/26       
+ * #### 08/26
+   * Data : [Final.csv](https://github.com/nowgkitso/2021-NLP-Course/blob/main/Final/final.csv)       
    * HW：[Final](https://github.com/nowgkitso/2021-NLP-Course/blob/main/Final/nlp_final.ipynb)
